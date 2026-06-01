@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
+/* eslint-disable */
 import { redirect } from "next/navigation";
 import { MessageCircle, NotebookText, Percent, Users } from "lucide-react";
 import { AppShell } from "@/components/AppShell";
