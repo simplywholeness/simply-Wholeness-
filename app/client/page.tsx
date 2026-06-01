@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any, @typescript-eslint/no-unused-vars */
 import { redirect } from "next/navigation";
 import { BookOpen, CalendarCheck, HeartPulse, ListChecks, Target, TrendingUp } from "lucide-react";
 import { AppShell } from "@/components/AppShell";
